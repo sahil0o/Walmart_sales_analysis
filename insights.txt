@@ -1,0 +1,21 @@
+Query 1:  There are 3 unique cities: Yangon, Naypyitaw, Mandalay.
+Query 2:  There are 3 unique branches : A, B, C.
+Query 3:  Branch A : Yangon, Branch B: Mandalay, Branch C: Naypyitaw.
+Query 4:  Yangon leads with 340 branches, followed by Naypyitaw (328) and Mandalay (322).
+Query 5:  Diverse range of 6 distinct product categories.
+Query 6:  There are 3 different payment options available: Ewallet, Cash and Credit card. Ewallet and Cash are most used.
+Query 7:  Fashion accessories are the most purchased category.
+Query 8:  However, food and beverages bring the most revenue.
+Query 9:  Sales decline as the year progresses.
+Query 10: Naypyitaw has the highest sales and profitability, while the other two have nearly equivalent profits.
+Query 11: Males and females purchase nearly equal quantities of products, with females slightly in the lead.
+Query 12: The same trend as above is observed, but the gap has widened.
+Query 13: Afternoon and evening are peak times, with a noticeable increase in activity during the evening compared to the morning.
+Query 14: Members bring more profits. (not a good thing for the customer!)
+Query 15: Not a big difference in ratings over time of day. Distribution of ratings will be helpful.
+Query 16: Monday gets the best ratings, wednesday is the least active day. Saturday has low ratings, might need to investigate.
+Query 17: Distribution of ranking is provided. Mandalay and Yangon bring the average rating down on saturday.
+Query 18: Distribution of products can be useful for offers in different cities.
+Query 19: Saturday is the most profitable day with the highest product sales, which may explain the lower ratings due to increased service usage.
+Query 20: Distribution of payment methods can be useful for offers in different cities.
+

@@ -284,7 +284,7 @@ SELECT
     product_line,
     city,
     COUNT(product_line) AS product_count,
-    SUM(gross_income) AS total_revenue  -- Sums the gross income for each product line in each city
+    SUM(gross_income) AS total_revenue  
 FROM NewTable
 GROUP BY city, product_line
 ORDER BY city, product_count DESC;
